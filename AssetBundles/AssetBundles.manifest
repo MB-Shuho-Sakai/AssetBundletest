@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2650864698
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: fire
+      Dependencies: {}
+    Info_1:
+      Name: cube
+      Dependencies: {}
