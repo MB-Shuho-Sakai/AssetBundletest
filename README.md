@@ -1,0 +1,2 @@
+# AssetBundletest
+アセットバンドルのテスト用
